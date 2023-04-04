@@ -1,3 +1,11 @@
+//  configuration.js
+
+// const company = 'ACME Inc.'
+// const year = 2022
+
+
+
+
 //configuration.js
 
 export const company = 'ACME Inc.'

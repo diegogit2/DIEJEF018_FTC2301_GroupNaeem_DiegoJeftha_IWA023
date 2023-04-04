@@ -1,3 +1,11 @@
+/* scripts.js
+
+console.log('Roles:', nwabisa.role, johanes.role, alex.role) */
+
+
+
+
+
 //script.js
 
 import { role as role1 } from './nwabisa.js'
